@@ -1,2 +1,1 @@
-# Simulacion
-María Alejandra Guarín Garavito
+# Ammo.js
